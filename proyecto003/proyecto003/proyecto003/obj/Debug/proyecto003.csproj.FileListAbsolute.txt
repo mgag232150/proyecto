@@ -1,0 +1,25 @@
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\bin\Debug\proyecto003.exe.config
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\bin\Debug\proyecto003.exe
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\bin\Debug\proyecto003.pdb
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.csproj.AssemblyReference.cache
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.csproj.SuggestedBindingRedirects.cache
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.Properties.Resources.resources
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.csproj.GenerateResource.cache
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.csproj.CoreCompileInputs.cache
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.exe
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.pdb
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.Form2.resources
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.Form3.resources
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.Form4.resources
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.clasica.resources
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.pago1.resources
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.butacas1.resources
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.final.resources
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.index.resources
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.Tresde.resources
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.pago2.resources
+C:\Users\50379\Desktop\tareas\Progrmamcion estructurada\proyecto003\proyecto003\obj\Debug\proyecto003.butacas2.resources
+C:\Users\marco\OneDrive\Documentos\proyecto003\proyecto003\proyecto003\obj\Debug\proyecto003.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\proyecto003\proyecto003\proyecto003\obj\Debug\proyecto003.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Documentos\proyecto003\proyecto003\proyecto003\obj\Debug\proyecto003.exe
+C:\Users\marco\OneDrive\Documentos\proyecto003\proyecto003\proyecto003\obj\Debug\proyecto003.pdb

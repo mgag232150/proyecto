@@ -1,0 +1,7 @@
+Nombre.Text == "Jeferson Wilfredo Cruz Hernandez" 
+             && Direccion.Text == "Santiago"
+             && DUI.Text == "123-4"
+             && Telefono.Text == "79614845"
+             && Correo.Text == "jeferson@gmail.com"
+             && Usuario.Text == "wil26"
+             && Contraseña.Text == "12345"
